@@ -13,6 +13,7 @@
 		6075661A23C1DFB2004071DF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6075661823C1DFB2004071DF /* Main.storyboard */; };
 		6075661C23C1DFB3004071DF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6075661B23C1DFB3004071DF /* Assets.xcassets */; };
 		6075661F23C1DFB3004071DF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6075661D23C1DFB3004071DF /* LaunchScreen.storyboard */; };
+		6075662723C1E4FA004071DF /* ImageCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6075662623C1E4FA004071DF /* ImageCollectionViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		6075661B23C1DFB3004071DF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6075661E23C1DFB3004071DF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6075662023C1DFB3004071DF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6075662623C1E4FA004071DF /* ImageCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageCollectionViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				6075661B23C1DFB3004071DF /* Assets.xcassets */,
 				6075661D23C1DFB3004071DF /* LaunchScreen.storyboard */,
 				6075662023C1DFB3004071DF /* Info.plist */,
+				6075662623C1E4FA004071DF /* ImageCollectionViewCell.swift */,
 			);
 			path = ImageSaveSample;
 			sourceTree = "<group>";
@@ -140,6 +143,7 @@
 			files = (
 				6075661723C1DFB2004071DF /* ViewController.swift in Sources */,
 				6075661323C1DFB2004071DF /* AppDelegate.swift in Sources */,
+				6075662723C1E4FA004071DF /* ImageCollectionViewCell.swift in Sources */,
 				6075661523C1DFB2004071DF /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
